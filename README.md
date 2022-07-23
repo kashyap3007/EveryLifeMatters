@@ -1,6 +1,10 @@
 # EveryLifeMatters
 EveryLifeMatters is a website based on Wildlife and Aquatic Protection. It Consists of Interactive webpages of both sections along with information about both of them. Best Part about this website is Its frontend which is responsive and attractive as well, which leads to  awareness about Aquatic as well as Wildlife.
 
+ Github Pages :https://kashyap3007.github.io/EveryLifeMatters/index.html
+ 
+ Azure Link : https://blue-mud-0f1770910.1.azurestaticapps.net/
+
 ## 🥷 Screenshots
 
 ![Screenshot (185)](https://user-images.githubusercontent.com/51224447/180431467-cd0f482b-8cc9-4e82-afa0-a6ceec7e5115.png)
@@ -36,8 +40,6 @@ EveryLifeMatters is a website based on Wildlife and Aquatic Protection. It Consi
  
  Full Responsive website and many more things ... which u will find when u run it.
  
- Github Pages :https://kashyap3007.github.io/EveryLifeMatters/index.html
- 
- Azure Link : https://blue-mud-0f1770910.1.azurestaticapps.net/
+
  
 
